@@ -12,7 +12,4 @@ Welcome to the official repository documenting the creation of **NeuroFrog ($NEU
 ## About NeuroFrog 🧠🐸
 NeuroFrog ($NEURO) fuses AI-driven creativity and blockchain technology to leapfrog the boundaries of meme coins. It's fun, ethical, and built for a quantum-inspired future. 🌌💡
 
-## How to Get Involved
-- Follow us on [Twitter](https://twitter.com/NeuroFrog)
-- Visit our [Website](https://neurofrog.com) (Coming Soon!)
-- Join the movement today! 🚀
+
